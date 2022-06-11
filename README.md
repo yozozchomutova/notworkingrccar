@@ -1,1 +1,3 @@
 # notworkingrccar
+
+Because this project was just dumb test of making RC car, use this as inspiration...
